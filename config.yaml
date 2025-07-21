@@ -1,0 +1,7 @@
+path: /Users/annahan/Documents/uv-playground/object-detection/squirrel_yolo  # dataset root dir (absolute path)
+train: images/train # train images (relative to 'path')
+val: images/val  # test images (relative to 'path')
+
+# Classes
+names:
+  0: squirrel
